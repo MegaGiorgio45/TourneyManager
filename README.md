@@ -6,7 +6,7 @@ Gestor de torneos de eSports. Trabajo Nº2 · Desarrollo de Interfaces · 2º DA
 
 \## Autores
 
-\- Tu nombre · @MegaGiorgio45
+\- Jorge López Val · @MegaGiorgio45
 
-\- Nombre de tu compañero · @fabriciocaceres422
+\- Fabricio Cáceres · @fabriciocaceres422
 
