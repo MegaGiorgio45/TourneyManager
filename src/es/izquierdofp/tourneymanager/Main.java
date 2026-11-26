@@ -4,6 +4,8 @@
  */
 package es.izquierdofp.tourneymanager;
 
+import es.izquierdofp.tourneymanager.datos.DatabaseManager;
+
 /**
  *
  * @author 2DAM
@@ -11,6 +13,8 @@ package es.izquierdofp.tourneymanager;
 public class Main {
     
     public static void main(String[] args) {
+        
+        DatabaseManager.inicializar();
 
     }
     
